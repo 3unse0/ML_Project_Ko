@@ -40,7 +40,5 @@ The accuracy and loss of the model will be displayed during training, and the pr
 <br>
 <br>
 <br>
-<img width="1035" alt="Screen Shot 2023-07-02 at 10 07 49 PM" src="https://github.com/3unse0/ML_Project_Ko/assets/130636819/a26dd763-7b7c-42a6-afd3-6589626aed66">
-
-
+<img width="1035" alt="output" src="https://github.com/3unse0/ML_Project_Ko/assets/130636819/9f49d905-31e1-47df-a290-76fa054eef50">
 
